@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    background:url(../../images/desktop4.jpg);
+    height: 100vh;
+  }
+  #login .container #login-row #login-column #login-box {
+    margin-top: 100px;
+    max-width: 600px;
+    height: 750px;
+    border: 1px solid rgb(142, 24, 197);
+    background-color:rgb(142, 24, 197);
+  }
+  #login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+  }
+
+  #login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -85px;
+  }
+
+  .form-control{
+      background-color: rgb(255, 254, 254)
+  }
+
+  .form-control:checked{
+      background: rgba(240, 248, 255, 0.13)
+  }
+
+  .container{
+      color: rgb(100, 255, 10);
+  }
+ 
